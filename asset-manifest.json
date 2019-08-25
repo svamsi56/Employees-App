@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/employees-app/static/css/main.ce368f04.chunk.css",
-    "main.js": "/employees-app/static/js/main.97bc7711.chunk.js",
-    "main.js.map": "/employees-app/static/js/main.97bc7711.chunk.js.map",
-    "runtime~main.js": "/employees-app/static/js/runtime~main.c06c5847.js",
-    "runtime~main.js.map": "/employees-app/static/js/runtime~main.c06c5847.js.map",
-    "static/js/2.d7badd75.chunk.js": "/employees-app/static/js/2.d7badd75.chunk.js",
-    "static/js/2.d7badd75.chunk.js.map": "/employees-app/static/js/2.d7badd75.chunk.js.map",
-    "index.html": "/employees-app/index.html",
-    "precache-manifest.92a0a44151b89681a58499e65d54e431.js": "/employees-app/precache-manifest.92a0a44151b89681a58499e65d54e431.js",
-    "service-worker.js": "/employees-app/service-worker.js",
-    "static/css/main.ce368f04.chunk.css.map": "/employees-app/static/css/main.ce368f04.chunk.css.map"
+    "main.css": "/Employees-App/static/css/main.ce368f04.chunk.css",
+    "main.js": "/Employees-App/static/js/main.421bb249.chunk.js",
+    "main.js.map": "/Employees-App/static/js/main.421bb249.chunk.js.map",
+    "runtime~main.js": "/Employees-App/static/js/runtime~main.d75bfe67.js",
+    "runtime~main.js.map": "/Employees-App/static/js/runtime~main.d75bfe67.js.map",
+    "static/js/2.d7badd75.chunk.js": "/Employees-App/static/js/2.d7badd75.chunk.js",
+    "static/js/2.d7badd75.chunk.js.map": "/Employees-App/static/js/2.d7badd75.chunk.js.map",
+    "index.html": "/Employees-App/index.html",
+    "precache-manifest.b400f507272e3401a72226aa3c85bc2c.js": "/Employees-App/precache-manifest.b400f507272e3401a72226aa3c85bc2c.js",
+    "service-worker.js": "/Employees-App/service-worker.js",
+    "static/css/main.ce368f04.chunk.css.map": "/Employees-App/static/css/main.ce368f04.chunk.css.map"
   }
 }
